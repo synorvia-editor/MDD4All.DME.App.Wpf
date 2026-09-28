@@ -44,9 +44,9 @@
       <ProjectReference Include="..\..\..\MDD4All.DME.Views\src\MDD4All.DME.Views\MDD4All.DME.Views-dev.csproj" />
       <ProjectReference Include="..\..\..\MDD4All.Reflection.TypeAnalyzer\src\MDD4All.Reflection.TypeAnalyzer\MDD4All.Reflection.TypeAnalyzer-dev.csproj" />
       <ProjectReference Include="..\..\..\MDD4All.UI.Blazor\src\MDD4All.UI.Blazor\MDD4All.UI.Blazor-dev.csproj" />
-      <ProjectReference Include="..\..\..\MDD4All.FileAccess.WPF\src\MDD4All.FileAccess.WPF\MDD4All.FileAccess.WPF-dev.csproj" />
-      <ProjectReference Include="..\..\..\MDD4All.UI.BlazorComponents\src\MDD4All.UI.BlazorComponents\MDD4All.UI.BlazorComponents-dev.csproj" />
-      <ProjectReference Include="..\..\..\MDD4All.UI.DataModels\src\MDD4All.UI.DataModels\MDD4All.UI.DataModels-dev.csproj" />
+      <ProjectReference Include="..\..\..\Synorvia.FileAccess.WPF\src\Synorvia.FileAccess.WPF\Synorvia.FileAccess.WPF-dev.csproj" />
+      <ProjectReference Include="..\..\..\Synorvia.UI.BlazorComponents\src\Synorvia.UI.BlazorComponents\Synorvia.UI.BlazorComponents-dev.csproj" />
+      <ProjectReference Include="..\..\..\Synorvia.UI.DataModels\src\Synorvia.UI.DataModels\Synorvia.UI.DataModels-dev.csproj" />
     </ItemGroup>
 
     <ItemGroup>
